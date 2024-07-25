@@ -5,3 +5,4 @@ while total == 0:
     break
 
 print("newline")
+print("This is going to be a feature-2")
