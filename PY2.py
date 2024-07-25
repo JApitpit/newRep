@@ -6,3 +6,5 @@ if type == str:
     text
 else:
     print("wrong")
+
+# new comment for feature
